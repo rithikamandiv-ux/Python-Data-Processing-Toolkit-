@@ -58,7 +58,7 @@ This project was created for academic purposes and follows standard Python codin
 
 ## Author
 
-Ilakian Puvanendra
+Rithika Mandiv
 
 ---
 
