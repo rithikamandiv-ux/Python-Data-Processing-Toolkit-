@@ -1,14 +1,3 @@
-"""
-**************************
-Additional info
- 1. I declare that my work contins no examples of misconduct, such as
- plagiarism, or collusion.
- 2. Any code taken from other sources is referenced within my code solution.
- 3. Student ID: 20241502/21815610
- 4. Date: 21/11/2025
-**************************
-
-"""
 
 from graphics import *
 import csv
