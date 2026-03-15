@@ -1,4 +1,4 @@
-# Python Coursework – Data Processing Script
+# Python – Data Processing Script
 
 This repository contains a Python script developed as part of a university coursework submission. The script focuses on data processing, logical conditions, iteration, and structured output generation using core Python concepts.
 
