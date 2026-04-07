@@ -8,7 +8,7 @@ The program demonstrates effective use of variables, conditional statements, loo
 
 ## File Description
 
-- **w2181561.py** – Main Python script containing the full solution logic
+- **Main.py** – Main Python script containing the full solution logic
 
 ---
 
